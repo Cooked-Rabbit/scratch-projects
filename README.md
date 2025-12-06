@@ -1,2 +1,2 @@
 # scratch-projects
-This repository is used to storage my Scratch projects.
+Some Scratch projects. They use custom extensions, so they cannot be uploaded to Cocrea.
