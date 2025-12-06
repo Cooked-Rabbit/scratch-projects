@@ -1,2 +1,2 @@
 # scratch-projects
-My Scratch projects
+This repository is used to storage my Scratch projects.
